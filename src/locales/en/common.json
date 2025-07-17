@@ -19,105 +19,110 @@
     "home": "Home",
     "preparingExperience": "Preparing your experience..."
   },
-    "navbar": {
-      "brand": "Humano Insurance",
-      "register": "Sign Up",
-      "login": "Sign In",
-      "logout": "Sign Out",
-      "profile": "Profile",
-      "settings": "Settings",
-      "welcome": "Welcome, {{name}}",
-      "toggleTheme": "Switch to {{theme}} theme",
-      "currentTheme": "current: {{theme}}",
-      "lightTheme": "light",
-      "darkTheme": "dark"
-    },
-    "auth": {
-      "register": "Sign Up",
-      "login": "Sign In",
-      "registerSubtitle": "Create your Humano Insurance account",
-      "loginSubtitle": "Access your Humano Insurance account",
-      "name": "Name",
-      "email": "Email",
-      "password": "Password",
-      "confirmPassword": "Confirm Password",
-      "registerButton": "Create Account",
-      "loginButton": "Sign In",
-      "forgotPassword": "Forgot your password?",
-      "alreadyHaveAccount": "Already have an account?",
-      "dontHaveAccount": "Don't have an account?",
-      "loginHere": "Sign in here",
-      "registerHere": "Sign up here"
-    },
-    "validation": {
-      "required": "This field is required",
-      "nameRequired": "Name is required",
-      "emailRequired": "Email is required",
-      "emailInvalid": "Email is not valid",
-      "passwordRequired": "Password is required",
-      "confirmPasswordRequired": "Confirm password is required",
-      "passwordsNotMatch": "Passwords do not match",
-      "minLength": "Minimum {{count}} characters",
-      "maxLength": "Maximum {{count}} characters"
-    },
-    "notifications": {
-      "registerSuccess": "Registration successful!",
-      "registerSuccessMessage": "Welcome, {{name}}! Your account has been created successfully.",
-      "loginSuccess": "Welcome back!",
-      "loginSuccessMessage": "You have successfully signed in, {{name}}.",
-      "logoutSuccess": "Session closed",
-      "logoutSuccessMessage": "See you later, {{name}}. Your session has been closed successfully.",
-      "error": "Error",
-      "unexpectedError": "An unexpected error occurred",
-      "tryAgain": "Please try again"
-    },
-    "home": {
-      "title": "Welcome to Humano Insurance",
-      "subtitle": "Your safety is our priority",
-      "description": "We offer the best insurance solutions to protect what matters most to you.",
-      "getStarted": "Get Started",
-      "learnMore": "Learn More",
-      "welcomeBack": "Hello, {{name}}!",
-      "accountCreatedSuccess": "Your account has been created successfully. You can view your data by clicking the button below.",
-      "startRegistration": "Start your registration",
-      "joinDescription": "Join Humano Insurance and discover our comprehensive protection services.",
-      "registerNow": "Register Now",
-      "viewJson": "View JSON",
-      "hideJson": "Hide JSON",
-      "loading": "Loading...",
-      "userDataTitle": "User Data (JSON)",
-      "accountInfoTitle": "Account Information",
-      "nameLabel": "Name:",
-      "emailLabel": "Email:",
-      "statusLabel": "Status:",
-      "statusActive": "Active",
-      "registrationDateLabel": "Registration date:",
-      "features": {
-        "title": "Why choose Humano Insurance?",
-        "feature1": {
-          "title": "Complete Coverage",
-          "description": "Comprehensive protection for all your insurance needs"
-        },
-        "feature2": {
-          "title": "24/7 Support",
-          "description": "We're here for you 24 hours a day, 7 days a week"
-        },
-        "feature3": {
-          "title": "Competitive Prices",
-          "description": "The best rates in the market without compromising quality"
-        }
+  "navbar": {
+    "brand": "Humano Insurance",
+    "register": "Sign Up",
+    "login": "Sign In",
+    "logout": "Sign Out",
+    "profile": "Profile",
+    "settings": "Settings",
+    "welcome": "Welcome, {{name}}",
+    "toggleTheme": "Switch to {{theme}} theme",
+    "currentTheme": "current: {{theme}}",
+    "lightTheme": "light",
+    "darkTheme": "dark"
+  },
+  "auth": {
+    "register": "Sign Up",
+    "login": "Sign In",
+    "registerSubtitle": "Create your Humano Insurance account",
+    "loginSubtitle": "Access your Humano Insurance account",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "registerButton": "Create Account",
+    "loginButton": "Sign In",
+    "forgotPassword": "Forgot your password?",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "loginHere": "Sign in here",
+    "registerHere": "Sign up here"
+  },
+  "validation": {
+    "required": "This field is required",
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Email is not valid",
+    "passwordRequired": "Password is required",
+    "confirmPasswordRequired": "Confirm password is required",
+    "passwordsNotMatch": "Passwords do not match",
+    "minLength": "Minimum {{count}} characters",
+    "maxLength": "Maximum {{count}} characters"
+  },
+  "notifications": {
+    "registerSuccess": "Registration successful!",
+    "registerSuccessMessage": "Welcome, {{name}}! Your account has been created successfully.",
+    "loginSuccess": "Welcome back!",
+    "loginSuccessMessage": "You have successfully signed in, {{name}}.",
+    "logoutSuccess": "Session closed",
+    "logoutSuccessMessage": "See you later, {{name}}. Your session has been closed successfully.",
+    "error": "Error",
+    "unexpectedError": "An unexpected error occurred",
+    "tryAgain": "Please try again"
+  },
+  "home": {
+    "title": "Welcome to Humano Insurance",
+    "subtitle": "Your safety is our priority",
+    "description": "We offer the best insurance solutions to protect what matters most to you.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "welcomeBack": "Hello, {{name}}!",
+    "accountCreatedSuccess": "Your account has been created successfully. You can view your data by clicking the button below.",
+    "startRegistration": "Start your registration",
+    "joinDescription": "Join Humano Insurance and discover our comprehensive protection services.",
+    "registerNow": "Register Now",
+    "viewJson": "View JSON",
+    "hideJson": "Hide JSON",
+    "loading": "Loading...",
+    "userDataTitle": "User Data (JSON)",
+    "accountInfoTitle": "Account Information",
+    "nameLabel": "Name:",
+    "emailLabel": "Email:",
+    "statusLabel": "Status:",
+    "statusActive": "Active",
+    "registrationDateLabel": "Registration date:",
+    "features": {
+      "title": "Why choose Humano Insurance?",
+      "feature1": {
+        "title": "Complete Coverage",
+        "description": "Comprehensive protection for all your insurance needs"
+      },
+      "feature2": {
+        "title": "24/7 Support",
+        "description": "We're here for you 24 hours a day, 7 days a week"
+      },
+      "feature3": {
+        "title": "Competitive Prices",
+        "description": "The best rates in the market without compromising quality"
       }
-    },
-    "drawer": {
-      "title": "User Information",
-      "userData": "User Data",
-      "noUserData": "No user data available",
-      "close": "Close"
-    },
-    "language": {
-      "selectLanguage": "Select language",
-      "spanish": "Spanish",
+    }
+  },
+  "drawer": {
+    "title": "User Information",
+    "userData": "User Data",
+    "noUserData": "No user data available",
+    "close": "Close"
+  },
+  "language": {
+    "selectLanguage": "Select language",
+    "spanish": "Spanish",
     "english": "English",
     "currentLanguage": "Current language: {{language}}"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "message": "The page you are looking for does not exist or has been moved.",
+    "goHome": "Go to Home"
   }
 }

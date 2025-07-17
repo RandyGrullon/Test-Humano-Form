@@ -19,105 +19,110 @@
     "home": "Inicio",
     "preparingExperience": "Preparando tu experiencia..."
   },
-    "navbar": {
-      "brand": "Humano Seguros",
-      "register": "Registrarse",
-      "login": "Iniciar Sesión",
-      "logout": "Cerrar Sesión",
-      "profile": "Perfil",
-      "settings": "Configuración",
-      "welcome": "Bienvenido, {{name}}",
-      "toggleTheme": "Cambiar a tema {{theme}}",
-      "currentTheme": "actual: {{theme}}",
-      "lightTheme": "claro",
-      "darkTheme": "oscuro"
-    },
-    "auth": {
-      "register": "Registro",
-      "login": "Iniciar Sesión",
-      "registerSubtitle": "Crea tu cuenta en Humano Seguros",
-      "loginSubtitle": "Accede a tu cuenta de Humano Seguros",
-      "name": "Nombre",
-      "email": "Correo Electrónico",
-      "password": "Contraseña",
-      "confirmPassword": "Confirmar Contraseña",
-      "registerButton": "Crear Cuenta",
-      "loginButton": "Iniciar Sesión",
-      "forgotPassword": "¿Olvidaste tu contraseña?",
-      "alreadyHaveAccount": "¿Ya tienes una cuenta?",
-      "dontHaveAccount": "¿No tienes una cuenta?",
-      "loginHere": "Inicia sesión aquí",
-      "registerHere": "Regístrate aquí"
-    },
-    "validation": {
-      "required": "Este campo es obligatorio",
-      "nameRequired": "El nombre es obligatorio",
-      "emailRequired": "El email es obligatorio",
-      "emailInvalid": "El email no es válido",
-      "passwordRequired": "La contraseña es obligatoria",
-      "confirmPasswordRequired": "Confirmar contraseña es obligatorio",
-      "passwordsNotMatch": "Las contraseñas no coinciden",
-      "minLength": "Mínimo {{count}} caracteres",
-      "maxLength": "Máximo {{count}} caracteres"
-    },
-    "notifications": {
-      "registerSuccess": "¡Registro exitoso!",
-      "registerSuccessMessage": "¡Bienvenido, {{name}}! Tu cuenta ha sido creada exitosamente.",
-      "loginSuccess": "¡Bienvenido de vuelta!",
-      "loginSuccessMessage": "Has iniciado sesión correctamente, {{name}}.",
-      "logoutSuccess": "Sesión cerrada",
-      "logoutSuccessMessage": "Hasta luego, {{name}}. Tu sesión ha sido cerrada correctamente.",
-      "error": "Error",
-      "unexpectedError": "Ha ocurrido un error inesperado",
-      "tryAgain": "Por favor, inténtalo de nuevo"
-    },
-    "home": {
-      "title": "Bienvenido a Humano Seguros",
-      "subtitle": "Tu seguridad es nuestra prioridad",
-      "description": "Ofrecemos las mejores soluciones de seguros para proteger lo que más te importa.",
-      "getStarted": "Comenzar",
-      "learnMore": "Saber Más",
-      "welcomeBack": "¡Hola, {{name}}!",
-      "accountCreatedSuccess": "Tu cuenta ha sido creada exitosamente. Puedes ver tus datos haciendo clic en el botón de abajo.",
-      "startRegistration": "Comienza tu registro",
-      "joinDescription": "Únete a Humano Seguros y descubre nuestros servicios de protección integral.",
-      "registerNow": "Registrarse Ahora",
-      "viewJson": "Ver JSON",
-      "hideJson": "Ocultar JSON",
-      "loading": "Cargando...",
-      "userDataTitle": "Datos del Usuario (JSON)",
-      "accountInfoTitle": "Información de la Cuenta",
-      "nameLabel": "Nombre:",
-      "emailLabel": "Email:",
-      "statusLabel": "Estado:",
-      "statusActive": "Activo",
-      "registrationDateLabel": "Fecha de registro:",
-      "features": {
-        "title": "¿Por qué elegir Humano Seguros?",
-        "feature1": {
-          "title": "Cobertura Completa",
-          "description": "Protección integral para todas tus necesidades de seguros"
-        },
-        "feature2": {
-          "title": "Atención 24/7",
-          "description": "Estamos aquí para ti las 24 horas del día, los 7 días de la semana"
-        },
-        "feature3": {
-          "title": "Precios Competitivos",
-          "description": "Las mejores tarifas del mercado sin comprometer la calidad"
-        }
+  "navbar": {
+    "brand": "Humano Seguros",
+    "register": "Registrarse",
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "profile": "Perfil",
+    "settings": "Configuración",
+    "welcome": "Bienvenido, {{name}}",
+    "toggleTheme": "Cambiar a tema {{theme}}",
+    "currentTheme": "actual: {{theme}}",
+    "lightTheme": "claro",
+    "darkTheme": "oscuro"
+  },
+  "auth": {
+    "register": "Registro",
+    "login": "Iniciar Sesión",
+    "registerSubtitle": "Crea tu cuenta en Humano Seguros",
+    "loginSubtitle": "Accede a tu cuenta de Humano Seguros",
+    "name": "Nombre",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "registerButton": "Crear Cuenta",
+    "loginButton": "Iniciar Sesión",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+    "dontHaveAccount": "¿No tienes una cuenta?",
+    "loginHere": "Inicia sesión aquí",
+    "registerHere": "Regístrate aquí"
+  },
+  "validation": {
+    "required": "Este campo es obligatorio",
+    "nameRequired": "El nombre es obligatorio",
+    "emailRequired": "El email es obligatorio",
+    "emailInvalid": "El email no es válido",
+    "passwordRequired": "La contraseña es obligatoria",
+    "confirmPasswordRequired": "Confirmar contraseña es obligatorio",
+    "passwordsNotMatch": "Las contraseñas no coinciden",
+    "minLength": "Mínimo {{count}} caracteres",
+    "maxLength": "Máximo {{count}} caracteres"
+  },
+  "notifications": {
+    "registerSuccess": "¡Registro exitoso!",
+    "registerSuccessMessage": "¡Bienvenido, {{name}}! Tu cuenta ha sido creada exitosamente.",
+    "loginSuccess": "¡Bienvenido de vuelta!",
+    "loginSuccessMessage": "Has iniciado sesión correctamente, {{name}}.",
+    "logoutSuccess": "Sesión cerrada",
+    "logoutSuccessMessage": "Hasta luego, {{name}}. Tu sesión ha sido cerrada correctamente.",
+    "error": "Error",
+    "unexpectedError": "Ha ocurrido un error inesperado",
+    "tryAgain": "Por favor, inténtalo de nuevo"
+  },
+  "home": {
+    "title": "Bienvenido a Humano Seguros",
+    "subtitle": "Tu seguridad es nuestra prioridad",
+    "description": "Ofrecemos las mejores soluciones de seguros para proteger lo que más te importa.",
+    "getStarted": "Comenzar",
+    "learnMore": "Saber Más",
+    "welcomeBack": "¡Hola, {{name}}!",
+    "accountCreatedSuccess": "Tu cuenta ha sido creada exitosamente. Puedes ver tus datos haciendo clic en el botón de abajo.",
+    "startRegistration": "Comienza tu registro",
+    "joinDescription": "Únete a Humano Seguros y descubre nuestros servicios de protección integral.",
+    "registerNow": "Registrarse Ahora",
+    "viewJson": "Ver JSON",
+    "hideJson": "Ocultar JSON",
+    "loading": "Cargando...",
+    "userDataTitle": "Datos del Usuario (JSON)",
+    "accountInfoTitle": "Información de la Cuenta",
+    "nameLabel": "Nombre:",
+    "emailLabel": "Email:",
+    "statusLabel": "Estado:",
+    "statusActive": "Activo",
+    "registrationDateLabel": "Fecha de registro:",
+    "features": {
+      "title": "¿Por qué elegir Humano Seguros?",
+      "feature1": {
+        "title": "Cobertura Completa",
+        "description": "Protección integral para todas tus necesidades de seguros"
+      },
+      "feature2": {
+        "title": "Atención 24/7",
+        "description": "Estamos aquí para ti las 24 horas del día, los 7 días de la semana"
+      },
+      "feature3": {
+        "title": "Precios Competitivos",
+        "description": "Las mejores tarifas del mercado sin comprometer la calidad"
       }
-    },
-    "drawer": {
-      "title": "Información del Usuario",
-      "userData": "Datos del Usuario",
-      "noUserData": "No hay datos de usuario disponibles",
-      "close": "Cerrar"
-    },
-    "language": {
-      "selectLanguage": "Seleccionar idioma",
-      "spanish": "Español",
+    }
+  },
+  "drawer": {
+    "title": "Información del Usuario",
+    "userData": "Datos del Usuario",
+    "noUserData": "No hay datos de usuario disponibles",
+    "close": "Cerrar"
+  },
+  "language": {
+    "selectLanguage": "Seleccionar idioma",
+    "spanish": "Español",
     "english": "Inglés",
     "currentLanguage": "Idioma actual: {{language}}"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "message": "La página que buscas no existe o ha sido movida.",
+    "goHome": "Volver al inicio"
   }
 }
